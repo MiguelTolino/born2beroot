@@ -3,9 +3,9 @@
 This project aims to introduce you to the wonderful world of virtualization.
 
 ## Files 📁
-- **signature.txt** -> This document contains a hash from VM *(.vdi format)*
+- 📝**signature.txt** -> This document contains a hash from VM *(.vdi format)*
 
-- **born2beroot.vdi** -> Virtual Disk Image
+- 💿**born2beroot.vdi** -> Virtual Disk Image
 
 ## Summary ⏬
 
