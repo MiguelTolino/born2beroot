@@ -11,8 +11,8 @@ This project aims to introduce you to the wonderful world of virtualization.
 
 This project consists of having you set up your first server by following specific rules 🔽
 
-- No graphic interface 🖌️
-- Debian Buster 10 💻
-- AppArmor activated 🛡️
-- 2 encrypted partitions using *LVM* 🔒
+- 🖌️ No graphic interface 
+- 💻 Debian Buster 10 
+- 🛡️ AppArmor activated
+- 🔐 2 encrypted partitions using *LVM*
 
