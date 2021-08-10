@@ -1,6 +1,6 @@
 # born2beroot 👶
 
-This project aims to introduce me to the wonderful world of virtualization.
+This project aims to introduce me to the wonderful world 🌍 of virtualization.
 
 ## Files 📁
 - 📝**signature.txt** -> This document contains a hash from VM *(.vdi format)*
@@ -25,5 +25,8 @@ ___
 - 🦸 ***Sudo*** configured following strict rules
 - 👫 Adding many users and groups
 - 📄 **Script** that display some hardware and software information on all terminals every 10 minutes 🔽
-
+___
 ![Script](snapshots/vbox_snap2.png)
+___
+
+*In case you would like to try this VM, please contact me!*
