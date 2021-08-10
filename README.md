@@ -2,10 +2,14 @@
 
 This project aims to introduce me to the wonderful world 🌍 of virtualization.
 
+## Requisites
+
+![image](https://user-images.githubusercontent.com/52896719/128854847-b51e2052-17cb-40ff-ba7a-7355eb441fca.png)
+
 ## Files 📁
 - 📝**signature.txt** -> This document contains a hash from VM *(.vdi format)*
 
-- 💿**born2beroot.vdi** -> Virtual Disk Image
+- 💿**born2beroot.vdi** -> Virtual Disk Image (Not uploaded)
 
 ## Summary ⏬
 
