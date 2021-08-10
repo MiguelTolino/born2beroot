@@ -9,7 +9,7 @@ This project aims to introduce me to the wonderful world 🌍 of virtualization.
 ## Files 📁
 - 📝**signature.txt** -> This document contains a hash from VM *(.vdi format)*
 
-- 💿**born2beroot.vdi** -> Virtual Disk Image (Not uploaded)
+- 💿**born2beroot.vdi** -> Virtual Disk Image *(Not uploaded)*
 
 ## Summary ⏬
 
@@ -33,4 +33,4 @@ ___
 ![Script](snapshots/vbox_snap2.png)
 ___
 
-*In case you would like to try this VM, please contact me!*
+***In case you would like to try this VM, please contact me!***
