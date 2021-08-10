@@ -26,4 +26,4 @@ ___
 - 👫 Adding many users and groups
 - 📄 **Script** that display some hardware and software information on all terminals every 10 minutes 🔽
 
-![Script](snapshots/vbox_snap2)
+![Script](snapshots/vbox_snap2.png)
