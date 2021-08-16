@@ -1,6 +1,6 @@
 # born2beroot 👶
 
-In this project I have created my first machine in VirtualBox under specific instructions.
+In this project I have created my first machine in VirtualBox under specific instructions
 
 ## Requisites 📑
 
