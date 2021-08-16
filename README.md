@@ -2,7 +2,7 @@
 
 This project aims to introduce me to the wonderful world 🌍 of virtualization.
 
-## Requisites
+## Requisites 📑
 
 ![image](https://user-images.githubusercontent.com/52896719/128854847-b51e2052-17cb-40ff-ba7a-7355eb441fca.png)
 
@@ -32,7 +32,7 @@ ___
 ___
 ![Script](snapshots/vbox_snap2.png)
 ___
-## Links
+## Links 🔗
 - [VirtualBox User Manual](https://www.virtualbox.org/manual/UserManual.html)
 - [Debian installation guide](https://www.debian.org/releases/jessie/i386/index.html.es)
 - [Introduction to AppArmor](https://debian-handbook.info/browse/es-ES/stable/sect.apparmor.html)
@@ -46,7 +46,7 @@ ___
 - [Wall command linux](https://linuxize.com/post/wall-command-in-linux/)
 - [Cron command linux](https://www.redeszone.net/2017/01/09/utilizar-cron-crontab-linux-programar-tareas/)
 
-### Bonus
+### Bonus 🎀
 [LLMP stack (Linux, lighttpd, MariaDB, PHP)](https://www.osradar.com/install-wordpress-with-lighttpd-debian-10/)
 
 ___
