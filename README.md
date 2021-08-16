@@ -13,7 +13,7 @@ This project aims to introduce me to the wonderful world 🌍 of virtualization.
 
 ## Summary ⏬
 
-This project consists of having you set up your first server by following specific rules 🔽
+This project consists of having you set up my first server by following specific rules 🔽
 
 - 🖌️ No graphic interface 
 - 💻 **Debian** Buster 10 
