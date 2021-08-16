@@ -1,6 +1,6 @@
 # born2beroot 👶
 
-This project aims to introduce me to the wonderful world 🌍 of virtualization.
+In this project I have created my first machine in VirtualBox under specific instructions.
 
 ## Requisites 📑
 
